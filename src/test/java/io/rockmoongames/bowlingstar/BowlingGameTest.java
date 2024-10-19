@@ -19,7 +19,7 @@ public class BowlingGameTest {
         System.out.println("TestOne");
     }
     @Test
-    public void lisaTestOne(){
+    public void javierTestOne(){
 
     }
 }
