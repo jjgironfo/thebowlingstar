@@ -22,4 +22,9 @@ public class BowlingGameTest {
     public void javierTestOne(){
 
     }
+
+    @Test
+    public void javierTestThree(){
+
+    }
 }
