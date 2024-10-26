@@ -24,7 +24,7 @@ public class BowlingGameTest {
     }
 
     @Test
-    public void javierTestTres(){
+    public void javierTestThree(){
 
     }
 }
